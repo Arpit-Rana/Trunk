@@ -1,3 +1,8 @@
 class A
 
 int main()
+
+public static Void main(String []args)
+{
+System.out.println"Hello";
+}
